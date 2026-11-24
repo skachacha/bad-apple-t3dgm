@@ -1,0 +1,18 @@
+/build/
+/work/
+/output/
+/inputs/
+__pycache__/
+*.py[cod]
+*.exe
+*.obj
+*.o
+
+# Generated/reference media never belongs in the source repository.
+*.mp4
+*.wav
+*.3gm
+*.x
+*.bin
+*.npz
+*.log
